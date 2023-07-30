@@ -1,0 +1,11 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    depend_on_referenced_packages: false
+    non_constant_identifier_names: false
+    prefer_relative_imports: true
+    library_private_types_in_public_api: false
+    require_trailing_commas: true
+
+
